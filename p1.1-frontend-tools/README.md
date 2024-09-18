@@ -145,6 +145,8 @@ Ennumerate and explain each one of the files included in this repo.
 
 22. **Follow the instructions in the command line provided by GitHub to add your files, create the first commit and push it. Notice that in out case we have to add all files to the staged area with `git add .`, not just`git add README.md`** 
     
-    
+
 
 23. **To finish, submit the link of your GH repo to the task in our Classroom.**
+    
+    [https://github.com/dmelero1/p1.1-frontend-tools.git](https://github.com/dmelero1/p1.1-frontend-tools.git)
